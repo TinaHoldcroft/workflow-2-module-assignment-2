@@ -1,0 +1,25 @@
+{
+  "name": "modulenode",
+  "version": "1.0.0",
+  "description": "Workflow_MA2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinaHoldcroft/workflow-2-module-assignment-2.git"
+  },
+  "keywords": [
+    "NPM"
+  ],
+  "author": "Tina Mary Holdcroft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinaHoldcroft/workflow-2-module-assignment-2/issues"
+  },
+  "homepage": "https://github.com/TinaHoldcroft/workflow-2-module-assignment-2#readme",
+  "dependencies": {
+    "bootstrap-sass": "^3.4.1"
+  }
+}
