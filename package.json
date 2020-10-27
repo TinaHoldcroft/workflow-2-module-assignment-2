@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/TinaHoldcroft/workflow-2-module-assignment-2#readme",
   "dependencies": {
-    "bootstrap-sass": "^3.4.1"
+    "bootstrap-sass": "^3.4.1",
+    "html5-boilerplate": "^8.0.0"
   }
 }
